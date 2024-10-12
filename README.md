@@ -104,6 +104,8 @@ npm run start
 
 ![alt text](image.png)
 
+![alt text](image-1.png)
+
 ## Tailwind CSS Configuration
 
 Tailwind CSS is configured in `tailwind.config.ts`. The project uses Tailwind's utility-first CSS classes to style components. Global styles are applied through `globals.css`.
