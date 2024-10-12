@@ -120,7 +120,6 @@ Tailwind CSS is configured in `tailwind.config.ts`. The project uses Tailwind's 
 ## Troubleshooting
 
 - **MongoDB Connection Issues**: Ensure MongoDB is running locally or verify the connection string for MongoDB Atlas.
-- **CSS Not Applied**: Check that `globals.css` is imported in `layout.tsx` and that Tailwind is correctly set up in `tailwind.config.ts`.
 
 ## License
 
